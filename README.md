@@ -1,4 +1,4 @@
-# MADHAV_ECOMMERCE_SALES_DASHBOA
+# MADHAV_ECOMMERCE_SALES_DASHBOARD 
 **Objective** -> To contribute to success of a business by utilizing data analysis techniques, specially focusing on time series analysis, to provide valuable insights.
 Here are some key highlights from our findings:
 
