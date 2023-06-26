@@ -10,6 +10,7 @@ Here are some key highlights from our findings:
 
 **Top States:** Analyzing our sales data has also revealed valuable information about the top-performing states. Maharashtra, Madhya Pradesh, and Uttar Pradesh have emerged as our most significant markets.
 **Payment mode:** Most preferred Mode of Payment is COD.
+
 **Tasks Performed: -**
 
 1. Transformed data using Power Query.
